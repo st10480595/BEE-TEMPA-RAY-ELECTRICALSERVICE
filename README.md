@@ -30,3 +30,16 @@ Update style.css to change colors, fonts, or layout. Replace placeholder text/im
 Contact
 
 For questions, feedback, or collaboration: Company Name: Welcome to Bee Tempa Ray Electrical Services Email:Beautymthunzy@gmail.com Phone: 0815387473
+
+
+
+REFERENCE
+
+Mozilla Developer Network (MDN). (2024) HTML: HyperText Markup Language. Available at: https://developer.mozilla.org/en-US/docs/Web/HTML
+Mozilla Developer Network (MDN). (2024) CSS: Cascading Style Sheets. Available at: https://developer.mozilla.org/en-US/docs/Web/CSS
+Mozilla Developer Network (MDN). (2024) JavaScript Guide. Available at: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+W3C (World Wide Web Consortium). (2024) HTML5 Specification. 
+W3C (World Wide Web Consortium). (2024) CSS3 Specification. Available at: https://www.w3.org/Style/CSS/specs.en.html
+FreeCodeCamp. (2024) Responsive Web Design Tutorial. Available at: https://www.freecodecamp.org/news/tag/responsive-design/
+Stack Overflow. (2024) JavaScript functions and DOM manipulation discussions. Available at: https://stackoverflow.com/
+
