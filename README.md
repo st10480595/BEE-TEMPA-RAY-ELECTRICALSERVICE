@@ -11,6 +11,7 @@ project-folder/
 │── about.html            # About Us page
 │── services.html         # Services offered
 │── contact.html          # Contact form page
+                          creating forms
 │
 │── css/
 │    └── style.css        # Main stylesheet
